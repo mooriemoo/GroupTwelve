@@ -1,14 +1,20 @@
+import javax.swing.*; 
+
 
 public class Main {
 	
+
+	
 	public static void main(String[] args)
 	{
-		System.out.print("Hello World");
+
+		JOptionPane.showMessageDialog(null, "Hello World!", "Simple Output", JOptionPane.PLAIN_MESSAGE);
 		
 		//Mariia Kostyleva
 		//Alexander Perrotta 300245277
 		//Alejandro Pontiles ^^
+		
+
 
 	}
-
 }

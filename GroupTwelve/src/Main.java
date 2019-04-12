@@ -8,8 +8,8 @@ public class Main {
 	public static void main(String[] args)
 	{
 
-		JOptionPane.showMessageDialog(null, "Hello World!", "Simple Output", JOptionPane.PLAIN_MESSAGE);
 		
+		System.out.print("Hello World");
 		//Mariia Kostyleva
 		//Alexander Perrotta 300245277
 		//Alejandro Pontiles ^^

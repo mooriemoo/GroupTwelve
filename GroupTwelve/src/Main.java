@@ -14,9 +14,8 @@ public class Main {
 		//Alexander Perrotta 300245277
 		//Alejandro Pontiles ^^
 		
-		
-		//Name for GUI version, Mariia Kosyleva
 		//Name for GUI version, Alexander Perrotta 300245277
+		//Name for GUI version, Mariia Kostyleva 300267718
 		
 
 

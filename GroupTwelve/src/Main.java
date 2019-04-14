@@ -16,6 +16,7 @@ public class Main {
 		
 		//Name for GUI version, Alexander Perrotta 
 		//Name for GUI version, Mariia Kostyleva
+		//Name for GUI version
 		
 
 
